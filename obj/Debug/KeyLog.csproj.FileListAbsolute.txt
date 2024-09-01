@@ -1,0 +1,10 @@
+Z:\KeyLog\KeyLog\bin\Debug\KeyLog.exe.config
+Z:\KeyLog\KeyLog\bin\Debug\KeyLog.exe
+Z:\KeyLog\KeyLog\bin\Debug\KeyLog.pdb
+Z:\KeyLog\KeyLog\obj\Debug\KeyLog.csproj.AssemblyReference.cache
+Z:\KeyLog\KeyLog\obj\Debug\KeyLog.MainForm.resources
+Z:\KeyLog\KeyLog\obj\Debug\KeyLog.Properties.Resources.resources
+Z:\KeyLog\KeyLog\obj\Debug\KeyLog.csproj.GenerateResource.cache
+Z:\KeyLog\KeyLog\obj\Debug\KeyLog.csproj.CoreCompileInputs.cache
+Z:\KeyLog\KeyLog\obj\Debug\KeyLog.exe
+Z:\KeyLog\KeyLog\obj\Debug\KeyLog.pdb

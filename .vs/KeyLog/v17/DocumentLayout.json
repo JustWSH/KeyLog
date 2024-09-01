@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\KeyLog\\KeyLog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB751AC-F57B-4EC5-A2AA-7D8683669EC3}|KeyLog.csproj|z:\\keylog\\keylog\\globalhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB751AC-F57B-4EC5-A2AA-7D8683669EC3}|KeyLog.csproj|solutionrelative:globalhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB751AC-F57B-4EC5-A2AA-7D8683669EC3}|KeyLog.csproj|z:\\keylog\\keylog\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{FAB751AC-F57B-4EC5-A2AA-7D8683669EC3}|KeyLog.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB751AC-F57B-4EC5-A2AA-7D8683669EC3}|KeyLog.csproj|Z:\\KeyLog\\KeyLog\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAB751AC-F57B-4EC5-A2AA-7D8683669EC3}|KeyLog.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAB751AC-F57B-4EC5-A2AA-7D8683669EC3}|KeyLog.csproj|Z:\\KeyLog\\KeyLog\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FAB751AC-F57B-4EC5-A2AA-7D8683669EC3}|KeyLog.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "Z:\\KeyLog\\KeyLog\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "Z:\\KeyLog\\KeyLog\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-09-01T14:47:57.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalHooks.cs",
+              "DocumentMoniker": "Z:\\KeyLog\\KeyLog\\GlobalHooks.cs",
+              "RelativeDocumentMoniker": "GlobalHooks.cs",
+              "ToolTip": "Z:\\KeyLog\\KeyLog\\GlobalHooks.cs",
+              "RelativeToolTip": "GlobalHooks.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAcwHMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:43:09.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "Z:\\KeyLog\\KeyLog\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "Z:\\KeyLog\\KeyLog\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwFIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T04:41:37.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "Z:\\KeyLog\\KeyLog\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "Z:\\KeyLog\\KeyLog\\MainForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "MainForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T04:14:05.708Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
